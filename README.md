@@ -3,4 +3,4 @@
 
 # Alura Forum
 
-Med API built with Spring Boot and Postgresql.
+Med API built with Spring Boot and mySQL.
